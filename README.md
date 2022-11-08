@@ -25,28 +25,28 @@
 - 在国际顶级期刊、会议上发表论文20余篇
 - 获美国、中国发明专利授权18项
 
-#### 徐晟桐 [(个人主页)](#)
+#### 徐晟桐 [(个人主页)](#)：
 - 在线办公软件行业高级产品经理
 - 澳洲国立大学经济学硕士、南开大学经济学学士
 - 获中国GUI外观设计专利授权10项
 
 
 ### 3. 书籍目录
-<img src="./Images/contents_1.png" width=800px >
-<img src="./Images/contents_2.png" width=800px >
+<img src="./Images/contents_1.png" width=500px >
+<img src="./Images/contents_2.png" width=500px >
 
 
 ### 4. 购书链接
-待定
+<img src="./Images/book.jpeg" width=500px >
 
 ### 5. 书友QQ群
-<img src="./Images/QQ_group.png" width=800px >
+<img src="./Images/QQ_group.png" width=500px >
 
 ### 6. 勘误列表
 
 #### 6.1 代码勘误
 - 请参考本书第9章，统一使用Git工具，pull request到bug-fix分支。
-- 正式代码发布在master分支。
+- 正式代码发布在main分支。
 
 #### 6.2 书籍勘误
 - X页X行，原文“XX”；修改为“XX”。
